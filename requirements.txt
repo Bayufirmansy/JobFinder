@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+rank_bm25
+deep-translator
+pandas
+openpyxl
+nltk
